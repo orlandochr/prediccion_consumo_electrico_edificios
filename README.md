@@ -32,6 +32,8 @@ Normalize the data
 Create Train and Test datasets
 
 Create the prediction model
-
+Link del curso
 https://www.coursera.org/projects/predict-electricity-consumption
+
+Certificado obtenido
 https://coursera.org/share/7dd5dba4e563999ae5ed61ff03c179c0
